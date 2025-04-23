@@ -1,6 +1,6 @@
  Bank Managemnet System
 
-Welcome to the ** Bank Managemnet System** — a simple, console-based banking management software written in C.
+Welcome to the  Bank Managemnet System — a simple, console-based banking management software written in C.
 
 ## 💡 Features
 
